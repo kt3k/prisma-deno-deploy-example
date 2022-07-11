@@ -1,10 +1,3 @@
-# Deno
+# prisma-deno-deploy-example
 
-Deploys a Prisma Client using the Data Proxy with Deno.
-
-## How to run this
-
-```sh
-source ./prepare.sh && ./run.sh && ./test.sh
-```
-
+An example usage of Prisma Data Proxy in Deno Deploy
